@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item android:id="@+id/btnCategory"
+        android:title="Category"
+        android:showAsAction="ifRoom|withText"/>
+  <item android:id="@+id/btnDatabase"
+        android:title="Database"
+        android:showAsAction="ifRoom|withText"/>
+  <item android:id="@+id/btnSecurity"
+        android:title="Security"
+        android:showAsAction="ifRoom|withText"/>
+  <item android:id="@+id/btnAbout"
+        android:title="About"
+        android:showAsAction="ifRoom|withText"/>
+</menu>
